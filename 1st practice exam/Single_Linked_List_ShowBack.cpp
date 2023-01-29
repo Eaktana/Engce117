@@ -1,3 +1,5 @@
+//นายเอกธนา อภิญญาวิวัฒน์ 65543206089-6 sec-1
+//https://youtu.be/BiB-eQnHpHs
 #include <stdio.h>
 #include <stdlib.h>
 
